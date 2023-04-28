@@ -13,7 +13,7 @@ label start:
     # defecto. Es posible añadir un archivo en el directorio 'images' con el
     # nombre "bg room.png" or "bg room.jpg" para que se muestre aquí.
 
-    scene bg black_scene.png
+    scene bg black_scene
 
     # Muestra un personaje: Se usa un marcador de posición. Es posible
     # reemplazarlo añadiendo un archivo llamado "eileen happy.png" al directorio
