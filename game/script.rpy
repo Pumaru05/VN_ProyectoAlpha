@@ -1,8 +1,8 @@
-﻿# Coloca el código de tu juego en este archivo.
+﻿# PROYECTO DE VISUAL NOVEL CON NOMBRE POR DETERMINAR
 
 # Declara los personajes usados en el juego como en el ejemplo:
 
-define e = Character("Eileen")
+define Prota = Character("Jon")
 
 
 # El juego comienza aquí.
@@ -13,19 +13,23 @@ label start:
     # defecto. Es posible añadir un archivo en el directorio 'images' con el
     # nombre "bg room.png" or "bg room.jpg" para que se muestre aquí.
 
-    scene bg room
+    scene bg black_scene.png
 
     # Muestra un personaje: Se usa un marcador de posición. Es posible
     # reemplazarlo añadiendo un archivo llamado "eileen happy.png" al directorio
     # 'images'.
 
-    show eileen happy
+    #show eileen happy
 
     # Presenta las líneas del diálogo.
 
-    e "Has creado un nuevo juego Ren'Py."
+    "Donde... ¿Donde estoy?"
 
-    e "Añade una historia, imágenes y música, ¡y puedes presentarlo al mundo!"
+    Prota "Aaaaaaaaaaaagh... Mi cabeza... Que... ¿Qué ha pasado?"
+
+    'Mira alrededor de la estancia oscura'
+
+    Prota "Qu... ¿Que es eso? Parece una luz"
 
     # Finaliza el juego:
 
