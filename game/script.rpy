@@ -2,7 +2,7 @@
 
 # Declara los personajes usados en el juego como en el ejemplo:
 
-define Prota = Character("Jon")
+define PJ = Character("...")
 
 
 # El juego comienza aquí.
@@ -25,11 +25,27 @@ label start:
 
     "Donde... ¿Donde estoy?"
 
-    Prota "Aaaaaaaaaaaagh... Mi cabeza... Que... ¿Qué ha pasado?"
+    PJ "Aaaaaaaaaaaagh... Mi cabeza... Que... ¿Qué ha pasado?"
 
-    'Mira alrededor de la estancia oscura'
+    'Mira alrededor de la estancia oscura.'
 
-    Prota "Qu... ¿Que es eso? Parece una luz"
+    scene white_light
+    
+    PJ "Qu... ¿Que es eso? Parece una luz."
+
+    'Se levanta y comienza a andar hacia la luz.'
+
+    'Se tropieza con algunos guijarros del suelo de piedra.'
+
+    PJ "¡Auch! ¡Mis pies! ¡Qué daño!"
+
+    scene lake_mountain
+    
+    'Se ve un lago en medio de la montaña iluminada por el rayo de luz de la luna.'
+
+    # scene lake_Mara
+
+    PJ "Allí hay alguien, iré a preguntarla para saber donde estoy."
 
     # Finaliza el juego:
 
