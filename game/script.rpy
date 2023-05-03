@@ -35,6 +35,8 @@ label start:
 
     'Se levanta y comienza a andar hacia la luz.'
 
+    # scene stone_Jon
+
     'Se tropieza con algunos guijarros del suelo de piedra.'
 
     PJ "¡Auch! ¡Mis pies! ¡Qué daño!"
