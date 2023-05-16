@@ -1,6 +1,6 @@
 # VN_ProyectoAlpha
 
-Hola! Te preguntaras que es VN_ProyectoAlpha, verás, como introducción, VN_ProyectoAlpha es un nombre provisional mientras se está realizando el Proyecto.
+Hola! Te preguntarás que es VN_ProyectoAlpha, verás, como introducción, VN_ProyectoAlpha es un nombre provisional mientras se está realizando el Proyecto.
 El Proyecto consiste en crear una Visual Novel (o Novela Visual, como se la conoce en Español) y hasta que se termine (o entre medias y a alguien se le ocurra 
 un nombre con gancho), se quedará con ese Nombre Clave.
 
