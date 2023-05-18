@@ -41,7 +41,7 @@ label start:
 
     PJ "¡Auch! ¡Mis pies! ¡Qué daño!"
 
-    scene lake_mountain
+    # scene lake_mountain
     
     'Se ve un lago en medio de la montaña iluminada por el rayo de luz de la luna.'
 
